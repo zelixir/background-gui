@@ -204,3 +204,7 @@ background-gui/
     ├── CmdsInteract.cs    # invoke/select/items
     └── CmdsShot.cs        # shot
 ```
+
+## 实战示例
+
+- [examples/tc-config-crawl.md](examples/tc-config-crawl.md) — 隐藏桌面遍历 Total Commander 配置对话框（24 分类截图，18.8s 全流程真实记录）
